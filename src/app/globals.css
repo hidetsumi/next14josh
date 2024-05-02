@@ -57,6 +57,6 @@
         @apply bg-background text-foreground;
     }
 }
-.content-dropdown-menu-vW {
+/* .content-dropdown-menu-vW {
     width: calc(100vw - theme(space.6));
-}
+} */
